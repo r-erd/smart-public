@@ -15,23 +15,23 @@ key features:
 
 
 <p float="left">
-  <img src="screen1_p.png" width="400" />
-  <img src="screen2_p.png" width="400" /> 
+  <img src="photos/screen1_p.png" width="400" />
+  <img src="photos/screen2_p.png" width="400" /> 
 </p>
 
 <p float="left">
-  <img src="screen3_p.png" width="400" />
-  <img src="screen4_p.png" width="400" /> 
+  <img src="photos/screen3_p.png" width="400" />
+  <img src="photos/screen4_p.png" width="400" /> 
 </p>
 
 <p float="left">
-  <img src="screen5_p.png" width="400" />
-  <img src="screen6_p.png" width="400" /> 
+  <img src="photos/screen5_p.png" width="400" />
+  <img src="photos/screen6_p.png" width="400" /> 
 </p>
 
 <p float="left">
-  <img src="screen7_p.png" width="400" />
-  <img src="screen8_p.png" width="400" /> 
+  <img src="photos/screen7_p.png" width="400" />
+  <img src="photos/screen8_p.png" width="400" /> 
 </p>
 
 
